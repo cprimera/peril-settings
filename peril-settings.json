@@ -2,7 +2,6 @@
   "settings": {
   },
   "rules": {
-  },
-  "repos": {
+    "pull_request": "cprimera/peril-settings@basic.ts"
   }
 }
