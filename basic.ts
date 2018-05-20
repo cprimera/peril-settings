@@ -1,2 +1,2 @@
 import { message } from "danger"
-message("Just testing")
+message("Just testing!")
